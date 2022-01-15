@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EmmanuelRdzB
 - 👀 I’m interested in videogame development and design, but I´m also interested in web development 
 - 🌱 I’m currently learning more about Unreal Engine and i would like to learn more about react native
-- 💞️ I’m looking to collaborate on the videogame industry
+- 💞️ I’m looking to collaborate on projects related to the videogame industry
 - 📫 You can look out for me at twitter @El_Memex or sending me and email at emmanuelrdzbjs@gmail.com
